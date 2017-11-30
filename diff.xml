@@ -2,10 +2,9 @@
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="Default">
-        <PlaceSettings />
-      </entry>
-      <entry key="DirDiff">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="SYNC_BINARY_EDITOR_SETTINGS" value="false" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
